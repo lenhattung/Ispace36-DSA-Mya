@@ -1,0 +1,15 @@
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-02-ADT\obj\Debug\net10.0\Lab-02-ADT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-02-ADT\obj\Debug\net10.0\Lab-02-ADT.AssemblyInfoInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-02-ADT\obj\Debug\net10.0\Lab-02-ADT.AssemblyInfo.cs
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-02-ADT\obj\Debug\net10.0\Lab-02-ADT.csproj.CoreCompileInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-02-ADT\obj\Debug\net10.0\Lab-02-ADT.sourcelink.json
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-02-ADT\bin\Debug\net10.0\Lab-02-ADT.exe
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-02-ADT\bin\Debug\net10.0\Lab-02-ADT.deps.json
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-02-ADT\bin\Debug\net10.0\Lab-02-ADT.runtimeconfig.json
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-02-ADT\bin\Debug\net10.0\Lab-02-ADT.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-02-ADT\bin\Debug\net10.0\Lab-02-ADT.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-02-ADT\obj\Debug\net10.0\Lab-02-ADT.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-02-ADT\obj\Debug\net10.0\refint\Lab-02-ADT.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-02-ADT\obj\Debug\net10.0\Lab-02-ADT.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-02-ADT\obj\Debug\net10.0\Lab-02-ADT.genruntimeconfig.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-02-ADT\obj\Debug\net10.0\ref\Lab-02-ADT.dll
