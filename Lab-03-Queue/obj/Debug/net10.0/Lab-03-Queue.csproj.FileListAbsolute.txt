@@ -1,0 +1,15 @@
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Queue\bin\Debug\net10.0\Lab-03-Queue.exe
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Queue\bin\Debug\net10.0\Lab-03-Queue.deps.json
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Queue\bin\Debug\net10.0\Lab-03-Queue.runtimeconfig.json
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Queue\bin\Debug\net10.0\Lab-03-Queue.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Queue\bin\Debug\net10.0\Lab-03-Queue.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Queue\obj\Debug\net10.0\Lab-03-Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Queue\obj\Debug\net10.0\Lab-03-Queue.AssemblyInfoInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Queue\obj\Debug\net10.0\Lab-03-Queue.AssemblyInfo.cs
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Queue\obj\Debug\net10.0\Lab-03-Queue.csproj.CoreCompileInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Queue\obj\Debug\net10.0\Lab-03-Queue.sourcelink.json
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Queue\obj\Debug\net10.0\Lab-03-Queue.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Queue\obj\Debug\net10.0\refint\Lab-03-Queue.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Queue\obj\Debug\net10.0\Lab-03-Queue.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Queue\obj\Debug\net10.0\Lab-03-Queue.genruntimeconfig.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Queue\obj\Debug\net10.0\ref\Lab-03-Queue.dll
