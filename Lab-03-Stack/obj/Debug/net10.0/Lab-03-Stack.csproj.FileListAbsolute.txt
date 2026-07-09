@@ -1,0 +1,15 @@
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Stack\bin\Debug\net10.0\Lab-03-Stack.exe
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Stack\bin\Debug\net10.0\Lab-03-Stack.deps.json
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Stack\bin\Debug\net10.0\Lab-03-Stack.runtimeconfig.json
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Stack\bin\Debug\net10.0\Lab-03-Stack.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Stack\bin\Debug\net10.0\Lab-03-Stack.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Stack\obj\Debug\net10.0\Lab-03-Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Stack\obj\Debug\net10.0\Lab-03-Stack.AssemblyInfoInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Stack\obj\Debug\net10.0\Lab-03-Stack.AssemblyInfo.cs
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Stack\obj\Debug\net10.0\Lab-03-Stack.csproj.CoreCompileInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Stack\obj\Debug\net10.0\Lab-03-Stack.sourcelink.json
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Stack\obj\Debug\net10.0\Lab-03-Stack.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Stack\obj\Debug\net10.0\refint\Lab-03-Stack.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Stack\obj\Debug\net10.0\Lab-03-Stack.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Stack\obj\Debug\net10.0\Lab-03-Stack.genruntimeconfig.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab-03-Stack\obj\Debug\net10.0\ref\Lab-03-Stack.dll
