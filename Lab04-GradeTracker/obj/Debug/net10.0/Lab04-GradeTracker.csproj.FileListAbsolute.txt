@@ -1,0 +1,15 @@
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-GradeTracker\bin\Debug\net10.0\Lab04-GradeTracker.exe
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-GradeTracker\bin\Debug\net10.0\Lab04-GradeTracker.deps.json
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-GradeTracker\bin\Debug\net10.0\Lab04-GradeTracker.runtimeconfig.json
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-GradeTracker\bin\Debug\net10.0\Lab04-GradeTracker.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-GradeTracker\bin\Debug\net10.0\Lab04-GradeTracker.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-GradeTracker\obj\Debug\net10.0\Lab04-GradeTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-GradeTracker\obj\Debug\net10.0\Lab04-GradeTracker.AssemblyInfoInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-GradeTracker\obj\Debug\net10.0\Lab04-GradeTracker.AssemblyInfo.cs
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-GradeTracker\obj\Debug\net10.0\Lab04-GradeTracker.csproj.CoreCompileInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-GradeTracker\obj\Debug\net10.0\Lab04-GradeTracker.sourcelink.json
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-GradeTracker\obj\Debug\net10.0\Lab04-GradeTracker.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-GradeTracker\obj\Debug\net10.0\refint\Lab04-GradeTracker.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-GradeTracker\obj\Debug\net10.0\Lab04-GradeTracker.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-GradeTracker\obj\Debug\net10.0\Lab04-GradeTracker.genruntimeconfig.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-GradeTracker\obj\Debug\net10.0\ref\Lab04-GradeTracker.dll

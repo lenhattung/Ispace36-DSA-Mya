@@ -1,0 +1,15 @@
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-Set_HashSet_SortedSet\bin\Debug\net10.0\Lab04-Set_HashSet_SortedSet.exe
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-Set_HashSet_SortedSet\bin\Debug\net10.0\Lab04-Set_HashSet_SortedSet.deps.json
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-Set_HashSet_SortedSet\bin\Debug\net10.0\Lab04-Set_HashSet_SortedSet.runtimeconfig.json
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-Set_HashSet_SortedSet\bin\Debug\net10.0\Lab04-Set_HashSet_SortedSet.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-Set_HashSet_SortedSet\bin\Debug\net10.0\Lab04-Set_HashSet_SortedSet.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-Set_HashSet_SortedSet\obj\Debug\net10.0\Lab04-Set_HashSet_SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-Set_HashSet_SortedSet\obj\Debug\net10.0\Lab04-Set_HashSet_SortedSet.AssemblyInfoInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-Set_HashSet_SortedSet\obj\Debug\net10.0\Lab04-Set_HashSet_SortedSet.AssemblyInfo.cs
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-Set_HashSet_SortedSet\obj\Debug\net10.0\Lab04-Set_HashSet_SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-Set_HashSet_SortedSet\obj\Debug\net10.0\Lab04-Set_HashSet_SortedSet.sourcelink.json
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-Set_HashSet_SortedSet\obj\Debug\net10.0\Lab04-Set_HashSet_SortedSet.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-Set_HashSet_SortedSet\obj\Debug\net10.0\refint\Lab04-Set_HashSet_SortedSet.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-Set_HashSet_SortedSet\obj\Debug\net10.0\Lab04-Set_HashSet_SortedSet.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-Set_HashSet_SortedSet\obj\Debug\net10.0\Lab04-Set_HashSet_SortedSet.genruntimeconfig.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\Ispace36-DSA-Mya\Lab04-Set_HashSet_SortedSet\obj\Debug\net10.0\ref\Lab04-Set_HashSet_SortedSet.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Lab04-Set_HashSet_SortedSet/1.0.0": {
+        "runtime": {
+          "Lab04-Set_HashSet_SortedSet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab04-Set_HashSet_SortedSet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
