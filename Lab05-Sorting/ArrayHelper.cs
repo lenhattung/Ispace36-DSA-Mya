@@ -75,5 +75,65 @@
         return (cmps, swaps);
     }
 
+    public static (int cmps, int shifts) InsertionSort(int[] arr, bool showTrace = false)
+    {
+        int n = arr.Length, cmps = 0, shifts = 0;
+
+        for (int i = 1; i < n; i++)
+        {
+            int key = arr[i];   // element to be placed
+            int j = i - 1;
+
+            // Shift elements greater than key one position to the right
+            while (j >= 0 && arr[j] > key)
+            {
+                cmps++;
+                arr[j + 1] = arr[j];   // shift — NOT a swap
+                shifts++;
+                j--;
+            }
+            if (j >= 0) cmps++;        // the final failed comparison
+
+            arr[j + 1] = key;          // place key in correct position
+
+            if (showTrace)
+                Print($"i={i} key={key}", arr);
+        }
+        return (cmps, shifts);
+    }
+
+
+    static long _mrgCmps = 0;
+
+    public static void MergeSort(int[] arr, int left, int right, bool showTrace = false)
+    {
+        if (left >= right) return;              // base case: 1 element
+
+        int mid = left + (right - left) / 2;   // avoids integer overflow
+        MergeSort(arr, left, mid);
+        MergeSort(arr, mid + 1, right);
+        Merge(arr, left, mid, right, showTrace);
+    }
+
+    public static void Merge(int[] arr, int left, int mid, int right, bool showTrace)
+    {
+        // Copy both halves into temporary arrays
+        int[] L = arr[left..(mid + 1)];         // C# range syntax
+        int[] R = arr[(mid + 1)..(right + 1)];
+
+        int i = 0, j = 0, k = left;
+
+        while (i < L.Length && j < R.Length)
+        {
+            _mrgCmps++;
+            if (L[i] <= R[j]) arr[k++] = L[i++];  // <= keeps sort stable
+            else arr[k++] = R[j++];
+        }
+        while (i < L.Length) arr[k++] = L[i++];   // copy remaining L
+        while (j < R.Length) arr[k++] = R[j++];   // copy remaining R
+
+        if (showTrace)
+            Print($"Merged [{left}..{right}]", arr);
+    }
 
 }
