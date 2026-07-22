@@ -136,4 +136,33 @@
             Print($"Merged [{left}..{right}]", arr);
     }
 
+
+    static long _qCmps = 0;
+    public static void QuickSort(int[] arr, int low, int high)
+    {
+        if (low < high)
+        {
+            int pi = Partition(arr, low, high);
+            QuickSort(arr, low, pi - 1);    // sort left of pivot
+            QuickSort(arr, pi + 1, high);   // sort right of pivot
+        }
+    }
+
+    public static int Partition(int[] arr, int low, int high)
+    {
+        int pivot = arr[high];   // Lomuto: last element as pivot
+        int i = low - 1;
+
+        for (int j = low; j < high; j++)
+        {
+            _qCmps++;
+            if (arr[j] <= pivot)
+            {
+                i++;
+                Swap(arr, i, j);
+            }
+        }
+        Swap(arr, i + 1, high);   // place pivot in its final position
+        return i + 1;
+    }
 }
